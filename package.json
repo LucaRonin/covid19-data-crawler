@@ -1,0 +1,22 @@
+{
+  "name": "covid19-data-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaRonin/covid19-data-crawler.git"
+  },
+  "author": "Luca Rossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaRonin/covid19-data-crawler/issues"
+  },
+  "homepage": "https://github.com/LucaRonin/covid19-data-crawler#readme",
+  "dependencies": {
+    "serverless-offline": "^5.12.1"
+  }
+}
