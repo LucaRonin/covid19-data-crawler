@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/LucaRonin/covid19-data-crawler#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "serverless-offline": "^5.12.1"
   }
 }
